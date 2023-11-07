@@ -15,20 +15,12 @@ class OptionModel
       @selected_options.sort.map { |option_number| "Option #{option_number}" }.join(', ')
     end
   end
-end
-
-class OptionController
-  attr_reader :option_model
-    
-  def initialize
-    @option_model = OptionModel.new
-  end
   
   def toggle_option(option_number)
-    if @option_model.selected_options.include?(option_number)
-      @option_model.selected_options.delete(option_number)
+    if @selected_options.include?(option_number)
+      @selected_options.delete(option_number)
     else
-      @option_model.selected_options << option_number
+      @selected_options << option_number
     end
   end
 end
@@ -37,8 +29,7 @@ class OptionView
   include Glimmer
 
   def initialize
-    @option_controller = OptionController.new
-    @option_model = @option_controller.option_model
+    @option_model = OptionModel.new
     create_window
     register_observers
   end
@@ -56,7 +47,7 @@ class OptionView
             option_number = n + 1
             checkbox("Option #{option_number}") {
               on_toggled do
-                @option_controller.toggle_option(option_number)
+                @option_model.toggle_option(option_number)
               end
             }
           end
