@@ -19,7 +19,13 @@ bundle
 
 All exercises are under the [exercises](/exercises) directory.
 
-You can run an exercise by simply stepping into an exercise directory and running `glimmer program.rb`
+You can run an exercise by simply passing the exercise main Ruby file name as an argument to the `glimmer` command.
+
+Example:
+
+```
+glimmer exercises/10/hello_operations.rb
+```
 
 ## License
 
