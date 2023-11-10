@@ -2,7 +2,7 @@ require 'glimmer-dsl-libui'
 
 include Glimmer
 
-window('Hello, Operations!') {
+window('Option Selector') {
   content_size 50, 20
   margined true
   
@@ -13,6 +13,7 @@ window('Hello, Operations!') {
       checkboxes = 3.times.map do |n|
         checkbox("Option #{n+1}") {
           on_toggled do
+            puts "Checkbox '#{checkboxes[n].text}' checked property changed to: #{checkboxes[n].checked}"
             checked_checkboxes = checkboxes.select(&:checked)
             if checked_checkboxes.empty?
               selected_options_label.text = 'None'

@@ -1,7 +1,57 @@
 # How To Build Desktop Applications in Ruby
 ## RubyConf 2023 Workshop Code Exercises by Andy Maleh
 
-## Setup
+## Setup Glimmer DSL for LibUI
+
+(aka Exercise 0)
+
+1- Follow Presentation Slides at:
+
+Short Link:
+
+[https://bit.ly/rubyconf2023desktop](https://bit.ly/rubyconf2023desktop)
+
+Long Link:
+
+[https://docs.google.com/presentation/d/e/2PACX-1vTzKJ_covbLCfT2Ozse-FGhK8SRRdJ9xrOHQMpzlerhlyj09BlunreTKBWUfoKz3hpE2C5ZEn2LnUpD/pub?start=false&loop=false&delayms=60000&slide=id.g140fe579a5a_0_0](https://docs.google.com/presentation/d/e/2PACX-1vTzKJ_covbLCfT2Ozse-FGhK8SRRdJ9xrOHQMpzlerhlyj09BlunreTKBWUfoKz3hpE2C5ZEn2LnUpD/pub?start=false&loop=false&delayms=60000&slide=id.g140fe579a5a_0_0)
+
+2- Open Terminal (on Mac or Linux) or Command-Prompt/Git-Bash (on Windows)
+
+3- Install gem
+
+Run:
+
+```
+gem install glimmer-dsl-libui
+```
+
+4- Load Glimmer Meta-Example to test gem
+
+Run:
+
+```
+glimmer examples
+```
+
+You should see the Glimmer Meta-Example (the example of examples).
+
+Mac | Windows | Linux
+----|---------|------
+![glimmer-dsl-libui-mac-meta-example.png](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-mac-meta-example.png) | ![glimmer-dsl-libui-windows-meta-example.png](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-windows-meta-example.png) | ![glimmer-dsl-libui-linux-meta-example.png](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-linux-meta-example.png)
+
+5- Launch 3 basic examples:
+
+1. Basic Window
+2. Basic Button
+3. Basic Scrolling Area
+
+6- Launch 3 advanced examples:
+
+1. Control Gallery
+2. Form Table
+3. Snake
+
+## Setup Workshop GitHub Repository
 
 ```
 git clone https://github.com/AndyObtiva/how-to-build-desktop-applications-in-ruby.git
@@ -27,56 +77,41 @@ Example:
 glimmer section-01-gui-basics/exercise-09/hello_operations.rb
 ```
 
-## Setup
+### Section 1 GUI Basics
 
-(aka Exercise 0)
+#### Exercise 1 Empty Window
 
-1) Follow Presentation Slides:
+#### Exercise 2 Hello, World! Window with Args
 
-Short Link:
+#### Exercise 3 Hello, World! Window with Props
 
-[https://bit.ly/rubyconf2023desktop](https://bit.ly/rubyconf2023desktop)
+#### Exercise 4 Hello, World! Window + Label with Args
 
-Long Link:
+#### Exercise 5 Hello, World! Window + Label with Props
 
-[https://docs.google.com/presentation/d/e/2PACX-1vTzKJ_covbLCfT2Ozse-FGhK8SRRdJ9xrOHQMpzlerhlyj09BlunreTKBWUfoKz3hpE2C5ZEn2LnUpD/pub?start=false&loop=false&delayms=60000&slide=id.g140fe579a5a_0_0](https://docs.google.com/presentation/d/e/2PACX-1vTzKJ_covbLCfT2Ozse-FGhK8SRRdJ9xrOHQMpzlerhlyj09BlunreTKBWUfoKz3hpE2C5ZEn2LnUpD/pub?start=false&loop=false&delayms=60000&slide=id.g140fe579a5a_0_0)
+#### Exercise 6 Hello, Button!
 
-2) Open Terminal (on Mac or Linux) or Command-Prompt/Git-Bash (on Windows)
+#### Exercise 7 Hello, Layout! with Horizontal Box
 
-3) Install gem
+#### Exercise 8 Hello, Layout! with Horizontal & Vertical Boxes
 
-Run:
+#### Exercise 9 Option Selector
 
-```
-gem install glimmer-dsl-libui
-```
+Code:
 
-4) Load Glimmer Meta-Example to test gem
+[section-01-gui-basics/exercise-09/option_selector.rb](/section-01-gui-basics/exercise-09/option_selector.rb)
 
-Run:
+Run via this command from cloned repo directory:
 
 ```
-glimmer examples
+glimmer section-01-gui-basics/exercise-09/option_selector.rb
 ```
 
-You should see the Glimmer Meta-Example (the example of examples).
+Screenshots:
 
-Mac | Windows | Linux
-----|---------|------
-![glimmer-dsl-libui-mac-meta-example.png](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-mac-meta-example.png) | ![glimmer-dsl-libui-windows-meta-example.png](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-windows-meta-example.png) | ![glimmer-dsl-libui-linux-meta-example.png](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-linux-meta-example.png)
+![option selector screenshot 1](/screenshots/section-02-exercise-09-screenshot-01-option-selector.png)
 
-5) Launch 3 basic examples:
-
-i) Basic Window
-ii) Basic Button
-iii) Basic Scrolling Area
-
-6) Launch 3 advanced examples:
-
-i) Control Gallery
-ii) Form Table
-iii) Snake
-
+![option selector screenshot 2](/screenshots/section-02-exercise-09-screenshot-02-option-selector-options-checked.png)
 
 ## License
 
