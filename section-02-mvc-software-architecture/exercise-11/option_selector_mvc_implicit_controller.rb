@@ -1,7 +1,7 @@
 require 'glimmer-dsl-libui'
 require 'set'
 
-class OptionModel
+class OptionSelectorModel
   attr_accessor :selected_options
   
   def initialize
@@ -25,30 +25,17 @@ class OptionModel
   end
 end
 
-class OptionController
-  attr_reader :option_model
-    
-  def initialize
-    @option_model = OptionModel.new
-  end
-  
-  def toggle_option(option_number)
-    @option_model.toggle_option(option_number)
-  end
-end
-
-class OptionView
+class OptionSelectorView
   include Glimmer
 
   def initialize
-    @option_controller = OptionController.new
-    @option_model = @option_controller.option_model
+    @option_selector_model = OptionSelectorModel.new
     create_window
     register_observers
   end
   
   def create_window
-    @window = window('Hello, Operations!') {
+    @window = window('Option Selector') {
       content_size 50, 20
       margined true
       
@@ -60,7 +47,7 @@ class OptionView
             option_number = n + 1
             checkbox("Option #{option_number}") {
               on_toggled do
-                @option_controller.toggle_option(option_number)
+                @option_selector_model.toggle_option(option_number)
               end
             }
           end
@@ -70,8 +57,8 @@ class OptionView
   end
     
   def register_observers
-    observe(@option_model, :selected_options) do
-      @selected_options_label.text = @option_model.to_s
+    observe(@option_selector_model, :selected_options) do
+      @selected_options_label.text = @option_selector_model.to_s
     end
   end
   
@@ -80,5 +67,5 @@ class OptionView
   end
 end
 
-option_view = OptionView.new
-option_view.launch
+option_selector_view = OptionSelectorView.new
+option_selector_view.launch
