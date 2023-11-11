@@ -157,6 +157,20 @@ Screenshots:
 
 ![area shapes square](/screenshots/section-05-exercise-20-screenshot-03-square.png)
 
+3- Arc
+
+[section-05-area-canvas-grahpics/exercise-20/arc.rb](/section-05-area-canvas-grahpics/exercise-20/arc.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-05-area-canvas-grahpics/exercise-20/arc.rb
+```
+
+Screenshots:
+
+![area shapes arc](/screenshots/section-05-exercise-20-screenshot-04-arc.png)
+
 ## License
 
 [MIT](LICENSE.txt)
