@@ -1,5 +1,4 @@
 require 'glimmer-dsl-libui'
-require 'set'
 
 class OptionSelectorModel
   attr_accessor :selected_options
