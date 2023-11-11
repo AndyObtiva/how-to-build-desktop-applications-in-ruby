@@ -32,6 +32,12 @@ class OptionSelectorModel
     set_option(3, value)
   end
   
+  def reset
+    self.option1 = false
+    self.option2 = false
+    self.option3 = false
+  end
+  
   private
   
   def get_option(option_number)
@@ -80,6 +86,12 @@ class OptionSelectorView
             checkbox("Option #{option_number}") {
               checked <=> [@option_selector_model, "option#{option_number}"]
             }
+          end
+        }
+        
+        button('Reset') {
+          on_clicked do
+            @option_selector_model.reset
           end
         }
       }
