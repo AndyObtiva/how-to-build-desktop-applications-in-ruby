@@ -24,6 +24,7 @@ GEM
       rouge (>= 3.26.0, < 4.0.0)
       super_module (~> 1.4.1)
       text-table (>= 1.2.4, < 2.0.0)
+    libui (0.1.2.pre-arm64-darwin)
     libui (0.1.2.pre-x86_64-darwin)
     matrix (0.4.2)
     method_source (1.0.0)
@@ -55,6 +56,7 @@ GEM
     wisper (2.0.1)
 
 PLATFORMS
+  arm64-darwin-22
   x86_64-darwin-19
   x86_64-darwin-22
 

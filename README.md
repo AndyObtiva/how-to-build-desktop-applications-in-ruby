@@ -97,8 +97,6 @@ glimmer section-01-gui-basics/exercise-09/hello_operations.rb
 
 #### Exercise 9 Option Selector
 
-Code:
-
 [section-01-gui-basics/exercise-09/option_selector.rb](/section-01-gui-basics/exercise-09/option_selector.rb)
 
 Run via this command from cloned repo directory:
@@ -112,6 +110,52 @@ Screenshots:
 ![option selector screenshot 1](/screenshots/section-02-exercise-09-screenshot-01-option-selector.png)
 
 ![option selector screenshot 2](/screenshots/section-02-exercise-09-screenshot-02-option-selector-options-checked.png)
+
+### Section 5 Area (Canvas) Graphics
+
+#### Exercise 20 Area Shapes
+
+1- Line
+
+[section-05-area-canvas-grahpics/exercise-20/line.rb](/section-05-area-canvas-grahpics/exercise-20/line.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-05-area-canvas-grahpics/exercise-20/line.rb
+```
+
+Screenshots:
+
+![area shapes line](/screenshots/section-05-exercise-20-screenshot-01-line.png)
+
+2- Rectangle
+
+[section-05-area-canvas-grahpics/exercise-20/rectangle.rb](/section-05-area-canvas-grahpics/exercise-20/rectangle.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-05-area-canvas-grahpics/exercise-20/rectangle.rb
+```
+
+Screenshots:
+
+![area shapes rectangle](/screenshots/section-05-exercise-20-screenshot-02-rectangle.png)
+
+3- Square
+
+[section-05-area-canvas-grahpics/exercise-20/square.rb](/section-05-area-canvas-grahpics/exercise-20/square.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-05-area-canvas-grahpics/exercise-20/square.rb
+```
+
+Screenshots:
+
+![area shapes square](/screenshots/section-05-exercise-20-screenshot-03-square.png)
 
 ## License
 
