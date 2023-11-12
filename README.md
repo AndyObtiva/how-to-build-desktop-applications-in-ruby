@@ -241,6 +241,20 @@ Screenshots:
 
 ![area shapes polyline](/screenshots/section-05-exercise-20-screenshot-09-polyline.png)
 
+10- Polybezier
+
+[section-05-area-canvas-grahpics/exercise-20/polybezier.rb](/section-05-area-canvas-grahpics/exercise-20/polybezier.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-05-area-canvas-grahpics/exercise-20/polybezier.rb
+```
+
+Screenshots:
+
+![area shapes polybezier](/screenshots/section-05-exercise-20-screenshot-10-polybezier.png)
+
 ## License
 
 [MIT](LICENSE.txt)
