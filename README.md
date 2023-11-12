@@ -65,6 +65,12 @@ cd how-to-build-desktop-applications-in-ruby
 bundle
 ```
 
+## Resources
+
+- [How To Build Desktop Applications in Ruby Workshop Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vTzKJ_covbLCfT2Ozse-FGhK8SRRdJ9xrOHQMpzlerhlyj09BlunreTKBWUfoKz3hpE2C5ZEn2LnUpD/pub?start=false&loop=false&delayms=60000&slide=id.g140fe579a5a_0_0)
+- [Glimmer DSL for LibUI](https://github.com/AndyObtiva/glimmer-dsl-libui)
+- [Glimmer DSL for LibUI Supported Keywords](https://github.com/AndyObtiva/glimmer-dsl-libui#supported-keywords)
+
 ## Exercises
 
 Exercises are numbered and organized under sections.
