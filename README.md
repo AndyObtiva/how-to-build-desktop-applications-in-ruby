@@ -113,6 +113,24 @@ Screenshots:
 
 ### Section 3 MVP & Data-Binding
 
+#### Exercise 13 Option Selector with Reset
+
+[section-03-mvp-data-binding/exercise-13/option_selector_mvp_and_data_binding_with_reset.rb](/section-03-mvp-data-binding/exercise-13/option_selector_mvp_and_data_binding_with_reset.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-03-mvp-data-binding/exercise-13/option_selector_mvp_and_data_binding_with_reset.rb
+```
+
+Screenshots:
+
+![option selector screenshot 1](/screenshots/section-02-exercise-09-screenshot-01-option-selector.png)
+
+![option selector screenshot 2](/screenshots/section-02-exercise-09-screenshot-02-option-selector-options-checked.png)
+
+![option selector with reset](/screenshots/section-03-exercise-13-screenshot-01-option-selector-with-reset.png)
+
 #### Exercise 14 Address Form
 
 [section-03-mvp-data-binding/exercise-14/address_form.rb](/section-03-mvp-data-binding/exercise-14/address_form.rb)
@@ -160,6 +178,26 @@ Screenshots:
 ![dynamic address forms 2](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-03-exercise-14-screenshot-03-dynamic-address-forms-2-addresses.png)
 
 ![dynamic address forms 3](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-03-exercise-14-screenshot-03-dynamic-address-forms-3-addresses.png)
+
+### Section 4 Advanced Data-Binding
+
+#### Exercise 17 Option Selector with Data-Binding Converters and Hooks
+
+[section-04-advanced-data-binding/exercise-17/option_selector_data_binding_converters_and_hooks.rb](/section-04-advanced-data-binding/exercise-17/option_selector_data_binding_converters_and_hooks.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-04-advanced-data-binding/exercise-17/option_selector_data_binding_converters_and_hooks.rb
+```
+
+Screenshots:
+
+![option selector screenshot 1](/screenshots/section-02-exercise-09-screenshot-01-option-selector.png)
+
+![option selector screenshot 2](/screenshots/section-02-exercise-09-screenshot-02-option-selector-options-checked.png)
+
+![option selector with reset](/screenshots/section-03-exercise-13-screenshot-01-option-selector-with-reset.png)
 
 ### Section 5 Area (Canvas) Graphics
 
