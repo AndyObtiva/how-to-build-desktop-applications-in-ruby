@@ -143,6 +143,24 @@ Screenshots:
 
 ![dynamic form 2](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-mac-dynamic-form-without-some-fields.png)
 
+#### Exercise 16 Dynamic Address Forms
+
+[section-03-mvp-data-binding/exercise-14/dynamic_address_forms.rb](/section-03-mvp-data-binding/exercise-14/dynamic_address_forms.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-03-mvp-data-binding/exercise-14/dynamic_address_forms.rb
+```
+
+Screenshots:
+
+![dynamic address forms 1](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-03-exercise-14-screenshot-03-dynamic-address-forms.png)
+
+![dynamic address forms 2](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-03-exercise-14-screenshot-03-dynamic-address-forms-2-addresses.png)
+
+![dynamic address forms 3](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-03-exercise-14-screenshot-03-dynamic-address-forms-3-addresses.png)
+
 ### Section 5 Area (Canvas) Graphics
 
 #### Exercise 20 Area Shapes
