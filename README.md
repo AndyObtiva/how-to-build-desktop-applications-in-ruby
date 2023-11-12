@@ -117,12 +117,12 @@ Screenshots:
 
 1- Line
 
-[section-05-area-canvas-grahpics/exercise-20/line.rb](/section-05-area-canvas-grahpics/exercise-20/line.rb)
+[section-05-area-canvas-graphics/exercise-20/line.rb](/section-05-area-canvas-graphics/exercise-20/line.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-05-area-canvas-grahpics/exercise-20/line.rb
+glimmer section-05-area-canvas-graphics/exercise-20/line.rb
 ```
 
 Screenshots:
@@ -131,12 +131,12 @@ Screenshots:
 
 2- Rectangle
 
-[section-05-area-canvas-grahpics/exercise-20/rectangle.rb](/section-05-area-canvas-grahpics/exercise-20/rectangle.rb)
+[section-05-area-canvas-graphics/exercise-20/rectangle.rb](/section-05-area-canvas-graphics/exercise-20/rectangle.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-05-area-canvas-grahpics/exercise-20/rectangle.rb
+glimmer section-05-area-canvas-graphics/exercise-20/rectangle.rb
 ```
 
 Screenshots:
@@ -145,12 +145,12 @@ Screenshots:
 
 3- Square
 
-[section-05-area-canvas-grahpics/exercise-20/square.rb](/section-05-area-canvas-grahpics/exercise-20/square.rb)
+[section-05-area-canvas-graphics/exercise-20/square.rb](/section-05-area-canvas-graphics/exercise-20/square.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-05-area-canvas-grahpics/exercise-20/square.rb
+glimmer section-05-area-canvas-graphics/exercise-20/square.rb
 ```
 
 Screenshots:
@@ -159,12 +159,12 @@ Screenshots:
 
 4- Arc
 
-[section-05-area-canvas-grahpics/exercise-20/arc.rb](/section-05-area-canvas-grahpics/exercise-20/arc.rb)
+[section-05-area-canvas-graphics/exercise-20/arc.rb](/section-05-area-canvas-graphics/exercise-20/arc.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-05-area-canvas-grahpics/exercise-20/arc.rb
+glimmer section-05-area-canvas-graphics/exercise-20/arc.rb
 ```
 
 Screenshots:
@@ -173,12 +173,12 @@ Screenshots:
 
 5- Circle
 
-[section-05-area-canvas-grahpics/exercise-20/circle.rb](/section-05-area-canvas-grahpics/exercise-20/circle.rb)
+[section-05-area-canvas-graphics/exercise-20/circle.rb](/section-05-area-canvas-graphics/exercise-20/circle.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-05-area-canvas-grahpics/exercise-20/circle.rb
+glimmer section-05-area-canvas-graphics/exercise-20/circle.rb
 ```
 
 Screenshots:
@@ -187,12 +187,12 @@ Screenshots:
 
 6- Bezier
 
-[section-05-area-canvas-grahpics/exercise-20/bezier.rb](/section-05-area-canvas-grahpics/exercise-20/bezier.rb)
+[section-05-area-canvas-graphics/exercise-20/bezier.rb](/section-05-area-canvas-graphics/exercise-20/bezier.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-05-area-canvas-grahpics/exercise-20/bezier.rb
+glimmer section-05-area-canvas-graphics/exercise-20/bezier.rb
 ```
 
 Screenshots:
@@ -201,12 +201,12 @@ Screenshots:
 
 7- Figure
 
-[section-05-area-canvas-grahpics/exercise-20/figure.rb](/section-05-area-canvas-grahpics/exercise-20/figure.rb)
+[section-05-area-canvas-graphics/exercise-20/figure.rb](/section-05-area-canvas-graphics/exercise-20/figure.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-05-area-canvas-grahpics/exercise-20/figure.rb
+glimmer section-05-area-canvas-graphics/exercise-20/figure.rb
 ```
 
 Screenshots:
@@ -215,12 +215,12 @@ Screenshots:
 
 8- Polygon
 
-[section-05-area-canvas-grahpics/exercise-20/polygon.rb](/section-05-area-canvas-grahpics/exercise-20/polygon.rb)
+[section-05-area-canvas-graphics/exercise-20/polygon.rb](/section-05-area-canvas-graphics/exercise-20/polygon.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-05-area-canvas-grahpics/exercise-20/polygon.rb
+glimmer section-05-area-canvas-graphics/exercise-20/polygon.rb
 ```
 
 Screenshots:
@@ -229,12 +229,12 @@ Screenshots:
 
 9- Polyline
 
-[section-05-area-canvas-grahpics/exercise-20/polyline.rb](/section-05-area-canvas-grahpics/exercise-20/polyline.rb)
+[section-05-area-canvas-graphics/exercise-20/polyline.rb](/section-05-area-canvas-graphics/exercise-20/polyline.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-05-area-canvas-grahpics/exercise-20/polyline.rb
+glimmer section-05-area-canvas-graphics/exercise-20/polyline.rb
 ```
 
 Screenshots:
@@ -243,12 +243,12 @@ Screenshots:
 
 10- Polybezier
 
-[section-05-area-canvas-grahpics/exercise-20/polybezier.rb](/section-05-area-canvas-grahpics/exercise-20/polybezier.rb)
+[section-05-area-canvas-graphics/exercise-20/polybezier.rb](/section-05-area-canvas-graphics/exercise-20/polybezier.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-05-area-canvas-grahpics/exercise-20/polybezier.rb
+glimmer section-05-area-canvas-graphics/exercise-20/polybezier.rb
 ```
 
 Screenshots:
@@ -257,17 +257,37 @@ Screenshots:
 
 11- Composite Shape
 
-[section-05-area-canvas-grahpics/exercise-20/composite_shape.rb](/section-05-area-canvas-grahpics/exercise-20/composite_shape.rb)
+[section-05-area-canvas-graphics/exercise-20/composite_shape.rb](/section-05-area-canvas-graphics/exercise-20/composite_shape.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-05-area-canvas-grahpics/exercise-20/composite_shape.rb
+glimmer section-05-area-canvas-graphics/exercise-20/composite_shape.rb
 ```
 
 Screenshots:
 
 ![area shapes composite shape](/screenshots/section-05-exercise-20-screenshot-11-composite-shape.png)
+
+### Section 6 Drag & Drop
+
+#### Exercise 23 Shape Coloring
+
+[section-06-drag-and-drop/section-23/shape_coloring.rb](/section-06-drag-and-drop/section-23/shape_coloring.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-06-drag-and-drop/section-23/shape_coloring.rb
+```
+
+Screenshots:
+
+![shape coloring 1](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-mac-shape-coloring.png)
+
+![shape coloring 2](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-mac-shape-coloring-drag-and-drop.png)
+
+![shape coloring 3](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-mac-shape-coloring-color-dialog.png)
 
 ## License
 
