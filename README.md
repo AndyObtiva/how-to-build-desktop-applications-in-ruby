@@ -227,6 +227,20 @@ Screenshots:
 
 ![area shapes polygon](/screenshots/section-05-exercise-20-screenshot-08-polygon.png)
 
+9- Polyline
+
+[section-05-area-canvas-grahpics/exercise-20/polyline.rb](/section-05-area-canvas-grahpics/exercise-20/polyline.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-05-area-canvas-grahpics/exercise-20/polyline.rb
+```
+
+Screenshots:
+
+![area shapes polyline](/screenshots/section-05-exercise-20-screenshot-09-polyline.png)
+
 ## License
 
 [MIT](LICENSE.txt)
