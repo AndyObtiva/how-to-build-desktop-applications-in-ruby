@@ -199,6 +199,20 @@ Screenshots:
 
 ![area shapes bezier](/screenshots/section-05-exercise-20-screenshot-06-bezier.png)
 
+7- Figure
+
+[section-05-area-canvas-grahpics/exercise-20/figure.rb](/section-05-area-canvas-grahpics/exercise-20/figure.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-05-area-canvas-grahpics/exercise-20/figure.rb
+```
+
+Screenshots:
+
+![area shapes figure](/screenshots/section-05-exercise-20-screenshot-07-figure.png)
+
 ## License
 
 [MIT](LICENSE.txt)
