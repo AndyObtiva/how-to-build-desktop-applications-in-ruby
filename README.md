@@ -255,6 +255,20 @@ Screenshots:
 
 ![area shapes polybezier](/screenshots/section-05-exercise-20-screenshot-10-polybezier.png)
 
+11- Composite Shape
+
+[section-05-area-canvas-grahpics/exercise-20/composite_shape.rb](/section-05-area-canvas-grahpics/exercise-20/composite_shape.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-05-area-canvas-grahpics/exercise-20/composite_shape.rb
+```
+
+Screenshots:
+
+![area shapes composite shape](/screenshots/section-05-exercise-20-screenshot-11-composite-shape.png)
+
 ## License
 
 [MIT](LICENSE.txt)
