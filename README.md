@@ -205,6 +205,24 @@ Screenshots:
 
 ![option selector with reset](/screenshots/section-03-exercise-13-screenshot-01-option-selector-with-reset.png)
 
+#### Exercise 18 Option Selector with Computed Data-Binding
+
+[section-04-advanced-data-binding/exercise-18/option_selector_with_computed_data_binding.rb](/section-04-advanced-data-binding/exercise-18/option_selector_with_computed_data_binding.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-04-advanced-data-binding/exercise-18/option_selector_with_computed_data_binding.rb
+```
+
+Screenshots:
+
+![option selector screenshot 1](/screenshots/section-02-exercise-09-screenshot-01-option-selector.png)
+
+![option selector screenshot 2](/screenshots/section-02-exercise-09-screenshot-02-option-selector-options-checked.png)
+
+![option selector with reset](/screenshots/section-03-exercise-13-screenshot-01-option-selector-with-reset.png)
+
 ### Section 5 Area (Canvas) Graphics
 
 #### Exercise 20 Area Shapes

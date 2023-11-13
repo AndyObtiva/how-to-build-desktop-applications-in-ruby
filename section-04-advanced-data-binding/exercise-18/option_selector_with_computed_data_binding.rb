@@ -1,22 +1,33 @@
 require 'glimmer-dsl-libui'
 
 class OptionSelectorModel
-  attr_accessor :selected_options, :text
+  attr_accessor :selected_options
   
   def initialize
     reset
   end
   
-  def reset
-    self.selected_options = []
-    compute_text
+  def include?(option_number)
+    selected_options.include?(option_number)
   end
   
-  def compute_text
-    if selected_options.empty?
-      self.text = 'None'
+  def merge_option(option_number, value)
+    if value
+      (selected_options + [option_number]).sort
     else
-      self.text = selected_options.sort.map { |option_number| "Option #{option_number}" }.join(', ')
+      selected_options - [option_number]
+    end
+  end
+  
+  def reset
+    self.selected_options = []
+  end
+  
+  def text
+    if @selected_options.empty?
+      'None'
+    else
+      @selected_options.sort.map { |option_number| "Option #{option_number}" }.join(', ')
     end
   end
 end
@@ -36,7 +47,7 @@ class OptionSelectorView
       
       vertical_box {
         label {
-          text <= [@option_selector_model, :text]
+          text <= [@option_selector_model, :text, computed_by: :selected_options]
         }
         
         horizontal_box {
@@ -44,17 +55,8 @@ class OptionSelectorView
             option_number = n + 1
             checkbox("Option #{option_number}") {
               checked <=> [@option_selector_model, :selected_options,
-                            on_read: -> (val) {
-                              @option_selector_model.selected_options.include?(option_number)
-                            },
-                            on_write: -> (val) {
-                              if val
-                                (@option_selector_model.selected_options + [option_number]).sort
-                              else
-                                @option_selector_model.selected_options - [option_number]
-                              end
-                            },
-                            after_write: -> { @option_selector_model.compute_text }
+                            on_read: -> (val) { @option_selector_model.include?(option_number) },
+                            on_write: -> (val) { @option_selector_model.merge_option(option_number, val) },
                           ]
             }
           end
@@ -76,3 +78,5 @@ end
 
 option_selector_view = OptionSelectorView.new
 option_selector_view.launch
+
+          
