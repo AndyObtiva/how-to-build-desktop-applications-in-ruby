@@ -471,6 +471,42 @@ Screenshots:
 
 ![shape coloring 3](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-mac-shape-coloring-color-dialog.png)
 
+### Section 8 Application Scaffolding
+
+#### Exercise 27 Application Scaffolding
+
+Scaffold an application by running:
+
+```
+glimmer "scaffold[hello_world]"
+```
+
+[section-08-application-scaffolding/exercise-27/hello_world](/section-08-application-scaffolding/exercise-27/hello_world)
+
+Run via this command from cloned repo directory:
+
+```
+cd section-08-application-scaffolding/exercise-27/hello_world
+glimmer run
+```
+
+or
+
+```
+cd section-08-application-scaffolding/exercise-27/hello_world
+bin/hello_world
+```
+
+Screenshots:
+
+![application scaffolding 1](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-mac-scaffold-app-initial-screen.png)
+
+![application scaffolding 2](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-mac-scaffold-app-preferences.png)
+
+![application scaffolding 3](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-mac-scaffold-app-changed-greeting.png)
+
+![application scaffolding 4](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-mac-scaffold-app-about.png)
+
 ## License
 
 [MIT](LICENSE.txt)
