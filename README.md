@@ -455,12 +455,12 @@ Screenshots:
 
 #### Exercise 23 Shape Coloring
 
-[section-06-drag-and-drop/section-23/shape_coloring.rb](/section-06-drag-and-drop/section-23/shape_coloring.rb)
+[section-06-drag-and-drop/exercise-23/shape_coloring.rb](/section-06-drag-and-drop/exercise-23/shape_coloring.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-06-drag-and-drop/section-23/shape_coloring.rb
+glimmer section-06-drag-and-drop/exercise-23/shape_coloring.rb
 ```
 
 Screenshots:
