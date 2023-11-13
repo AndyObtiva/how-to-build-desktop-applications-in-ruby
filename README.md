@@ -177,6 +177,20 @@ Screenshots:
 
 ![address form](/screenshots/section-03-exercise-14-screenshot-02-address-form.png)
 
+#### Exercise 14b Form Table
+
+[section-03-mvp-data-binding/exercise-14b/form_table.rb](/section-03-mvp-data-binding/exercise-14b/form_table.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-03-mvp-data-binding/exercise-14b/form_table.rb
+```
+
+Screenshots:
+
+![address form](/screenshots/section-03-exercise-14-screenshot-02-address-form.png)
+
 #### Exercise 15 Dynamic Form
 
 [section-03-mvp-data-binding/exercise-15/dynamic_form.rb](/section-03-mvp-data-binding/exercise-15/dynamic_form.rb)
