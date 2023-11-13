@@ -87,19 +87,35 @@ glimmer section-01-gui-basics/exercise-09/hello_operations.rb
 
 #### Exercise 1 Empty Window
 
+[section-01-gui-basics/exercise-01/empty_window.rb](/section-01-gui-basics/exercise-01/empty_window.rb)
+
 #### Exercise 2 Hello, World! Window with Args
+
+[section-01-gui-basics/exercise-02/hello_world_window_with_args.rb](/section-01-gui-basics/exercise-02/hello_world_window_with_args.rb)
 
 #### Exercise 3 Hello, World! Window with Props
 
+[section-01-gui-basics/exercise-03/hello_world_window_with_props.rb](/section-01-gui-basics/exercise-03/hello_world_window_with_props.rb)
+
 #### Exercise 4 Hello, World! Window + Label with Args
+
+[section-01-gui-basics/exercise-04/hello_world_window_label_with_args.rb](/section-01-gui-basics/exercise-04/hello_world_window_label_with_args.rb)
 
 #### Exercise 5 Hello, World! Window + Label with Props
 
+[section-01-gui-basics/exercise-05/hello_world_window_label_with_props.rb](/section-01-gui-basics/exercise-05/hello_world_window_label_with_props.rb)
+
 #### Exercise 6 Hello, Button!
+
+[section-01-gui-basics/exercise-06/hello_button.rb](/section-01-gui-basics/exercise-06/hello_button.rb)
 
 #### Exercise 7 Hello, Layout! with Horizontal Box
 
+[section-01-gui-basics/exercise-07/hello_layout_with_horizontal_box.rb](/section-01-gui-basics/exercise-07/hello_layout_with_horizontal_box.rb)
+
 #### Exercise 8 Hello, Layout! with Horizontal & Vertical Boxes
+
+[section-01-gui-basics/exercise-08/hello_layout_with_horizontal_and_vertical_boxes.rb](section-01-gui-basics/exercise-08/hello_layout_with_horizontal_and_vertical_boxes.rb)
 
 #### Exercise 9 Option Selector
 
@@ -116,6 +132,16 @@ Screenshots:
 ![option selector screenshot 1](/screenshots/section-02-exercise-09-screenshot-01-option-selector.png)
 
 ![option selector screenshot 2](/screenshots/section-02-exercise-09-screenshot-02-option-selector-options-checked.png)
+
+### Section 2 MVC Software Architecture
+
+#### Exercise 10 Option Selector MVC Explicit Controller
+
+[section-02-mvc-software-architecture/exercise-10/option_selector_mvc_explicit_controller.rb](/section-02-mvc-software-architecture/exercise-10/option_selector_mvc_explicit_controller.rb)
+
+#### Exercise 11 Option Selector MVC Implicit Controller
+
+[/Users/andymaleh/code/how-to-build-desktop-applications-in-ruby/section-02-mvc-software-architecture/exercise-11/option_selector_mvc_implicit_controller.rb](//Users/andymaleh/code/how-to-build-desktop-applications-in-ruby/section-02-mvc-software-architecture/exercise-11/option_selector_mvc_implicit_controller.rb)
 
 ### Section 3 MVP & Data-Binding
 
@@ -222,6 +248,20 @@ Screenshots:
 ![option selector screenshot 2](/screenshots/section-02-exercise-09-screenshot-02-option-selector-options-checked.png)
 
 ![option selector with reset](/screenshots/section-03-exercise-13-screenshot-01-option-selector-with-reset.png)
+
+#### Exercise 19 Address Form with Nested Indexed Data-Binding
+
+[section-04-advanced-data-binding/exercise-19/address_form_with_nested_indexed_data_binding.rb](/section-04-advanced-data-binding/exercise-19/address_form_with_nested_indexed_data_binding.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-04-advanced-data-binding/exercise-19/address_form_with_nested_indexed_data_binding.rb
+```
+
+Screenshots:
+
+![address form nested indexed data-binding](/screenshots/section-04-exercise-19-screenshot-01-address-form-with-nested-indexed-data-binding.png)
 
 ### Section 5 Area (Canvas) Graphics
 
