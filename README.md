@@ -471,6 +471,22 @@ Screenshots:
 
 ![shape coloring 3](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/glimmer-dsl-libui-mac-shape-coloring-color-dialog.png)
 
+### Section 7 Custom Components
+
+#### Exercise 24 Address Form Custom Control
+
+[section-07-custom-components/exercise-24/address_form_custom_control.rb](/section-07-custom-components/exercise-24/address_form_custom_control.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-07-custom-components/exercise-24/address_form_custom_control.rb
+```
+
+Screenshots:
+
+![address form custom control](/screenshots/section-07-exercise-24-screenshot-01-address-form-custom-control)
+
 ### Section 8 Application Scaffolding
 
 #### Exercise 27 Application Scaffolding
