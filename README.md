@@ -485,7 +485,7 @@ glimmer section-07-custom-components/exercise-24/address_form_custom_control.rb
 
 Screenshots:
 
-![address form custom control](/screenshots/section-07-exercise-24-screenshot-01-address-form-custom-control)
+![address form custom control](/screenshots/section-07-exercise-24-screenshot-01-address-form-custom-control.png)
 
 #### Exercise 25 User Manager
 
