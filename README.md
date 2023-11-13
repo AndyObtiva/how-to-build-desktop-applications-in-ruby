@@ -421,6 +421,36 @@ Screenshots:
 
 ![area shapes composite shape](/screenshots/section-05-exercise-20-screenshot-11-composite-shape.png)
 
+#### Exercise 21 Area Shapes
+
+[section-05-area-canvas-graphics/exercise-21/area_shapes.rb](/section-05-area-canvas-graphics/exercise-21/area_shapes.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-05-area-canvas-graphics/exercise-21/area_shapes.rb
+```
+
+Screenshots:
+
+![area shapes](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-05-exercise-21-screenshot-12-area-shapes.png)
+
+#### Exercise 22 Area Shapes with Selection and Movement
+
+[section-05-area-canvas-graphics/exercise-22/area_shapes_with_selection_and_movement.rb](/section-05-area-canvas-graphics/exercise-22/area_shapes_with_selection_and_movement.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-05-area-canvas-graphics/exercise-22/area_shapes_with_selection_and_movement.rb
+```
+
+Screenshots:
+
+![area shapes](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-05-exercise-21-screenshot-12-area-shapes.png)
+
+![area shapes with selection and movement](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-05-exercise-22-screenshot-12-area-shapes-with-selection-and-movement.png)
+
 ### Section 6 Drag & Drop
 
 #### Exercise 23 Shape Coloring
