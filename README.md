@@ -179,12 +179,12 @@ Screenshots:
 
 #### Exercise 15 Dynamic Form
 
-[section-03-mvp-data-binding/exercise-14/dynamic_form.rb](/section-03-mvp-data-binding/exercise-14/dynamic_form.rb)
+[section-03-mvp-data-binding/exercise-15/dynamic_form.rb](/section-03-mvp-data-binding/exercise-15/dynamic_form.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-03-mvp-data-binding/exercise-14/dynamic_form.rb
+glimmer section-03-mvp-data-binding/exercise-15/dynamic_form.rb
 ```
 
 Screenshots:
@@ -195,21 +195,21 @@ Screenshots:
 
 #### Exercise 16 Dynamic Address Forms
 
-[section-03-mvp-data-binding/exercise-14/dynamic_address_forms.rb](/section-03-mvp-data-binding/exercise-14/dynamic_address_forms.rb)
+[section-03-mvp-data-binding/exercise-16/dynamic_address_forms.rb](/section-03-mvp-data-binding/exercise-16/dynamic_address_forms.rb)
 
 Run via this command from cloned repo directory:
 
 ```
-glimmer section-03-mvp-data-binding/exercise-14/dynamic_address_forms.rb
+glimmer section-03-mvp-data-binding/exercise-16/dynamic_address_forms.rb
 ```
 
 Screenshots:
 
-![dynamic address forms 1](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-03-exercise-14-screenshot-03-dynamic-address-forms.png)
+![dynamic address forms 1](/screenshots/section-03-exercise-16-screenshot-03-dynamic-address-forms.png)
 
-![dynamic address forms 2](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-03-exercise-14-screenshot-03-dynamic-address-forms-2-addresses.png)
+![dynamic address forms 2](/screenshots/section-03-exercise-16-screenshot-04-dynamic-address-forms-2-addresses.png)
 
-![dynamic address forms 3](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-03-exercise-14-screenshot-03-dynamic-address-forms-3-addresses.png)
+![dynamic address forms 3](/screenshots/section-03-exercise-16-screenshot-05-dynamic-address-forms-3-addresses.png)
 
 ### Section 4 Advanced Data-Binding
 
@@ -265,7 +265,7 @@ Screenshots:
 
 ### Section 5 Area (Canvas) Graphics
 
-#### Exercise 20 Area Shapes
+#### Exercise 20 Area Shapes (Individual)
 
 1- Line
 
@@ -433,7 +433,7 @@ glimmer section-05-area-canvas-graphics/exercise-21/area_shapes.rb
 
 Screenshots:
 
-![area shapes](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-05-exercise-21-screenshot-12-area-shapes.png)
+![area shapes](/screenshots/section-05-exercise-21-screenshot-12-area-shapes.png)
 
 #### Exercise 22 Area Shapes with Selection and Movement
 
@@ -447,9 +447,9 @@ glimmer section-05-area-canvas-graphics/exercise-22/area_shapes_with_selection_a
 
 Screenshots:
 
-![area shapes](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-05-exercise-21-screenshot-12-area-shapes.png)
+![area shapes](/screenshots/section-05-exercise-21-screenshot-12-area-shapes.png)
 
-![area shapes with selection and movement](https://raw.githubusercontent.com/AndyObtiva/glimmer-dsl-libui/master/images/section-05-exercise-22-screenshot-12-area-shapes-with-selection-and-movement.png)
+![area shapes with selection and movement](/screenshots/section-05-exercise-22-screenshot-12-area-shapes-with-selection-and-movement.png)
 
 ### Section 6 Drag & Drop
 
