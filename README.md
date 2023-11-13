@@ -487,6 +487,16 @@ Screenshots:
 
 ![address form custom control](/screenshots/section-07-exercise-24-screenshot-01-address-form-custom-control)
 
+#### Exercise 25 User Manager
+
+[section-07-custom-components/exercise-25/user_manager.rb](/section-07-custom-components/exercise-25/user_manager.rb)
+
+Run via this command from cloned repo directory:
+
+```
+glimmer section-07-custom-components/exercise-25/user_manager.rb
+```
+
 ### Section 8 Application Scaffolding
 
 #### Exercise 27 Application Scaffolding
