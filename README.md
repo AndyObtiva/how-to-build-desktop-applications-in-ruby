@@ -22,7 +22,7 @@ Long Link:
 Run:
 
 ```
-gem install glimmer-dsl-libui
+gem install glimmer-dsl-libui -v0.11.4
 ```
 
 4- Load Glimmer Meta-Example to test gem

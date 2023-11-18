@@ -10,12 +10,12 @@ GEM
     glimmer (2.7.3)
       array_include_methods (~> 1.4.0)
       facets (>= 3.1.0, < 4.0.0)
-    glimmer-dsl-libui (0.11.0)
+    glimmer-dsl-libui (0.11.4)
       chunky_png (~> 1.4.0)
       color (~> 1.8)
       equalizer (= 0.0.11)
       glimmer (~> 2.7.3)
-      libui (~> 0.1.2.pre)
+      libui (= 0.1.2.pre)
       os (>= 1.0.0, < 2.0.0)
       perfect-shape (~> 1.0.8)
       puts_debuggerer (>= 0.13.5, < 2.0.0)
@@ -61,7 +61,7 @@ PLATFORMS
   x86_64-darwin-22
 
 DEPENDENCIES
-  glimmer-dsl-libui (~> 0.11.0)
+  glimmer-dsl-libui (= 0.11.4)
 
 BUNDLED WITH
    2.4.21
