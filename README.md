@@ -695,6 +695,8 @@ Screenshot(s):
 
 #### Exercise 27 Application Scaffolding
 
+[Glimmer DSL for LibUI Application Scaffolding](https://github.com/AndyObtiva/glimmer-dsl-libui#scaffold-application) requires a Git configuration for `user.name` (`git config --global user.name "FirstName LastName"`) and `github.user` (`git config --global github.user githubusername`) as needed by the juwelier Ruby gem used for scaffolding.
+
 Scaffold an application by running:
 
 ```
