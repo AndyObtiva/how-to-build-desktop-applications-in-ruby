@@ -245,6 +245,8 @@ Screenshot(s):
 
 ![option selector screenshot 2](/screenshots/section-02-exercise-09-screenshot-02-option-selector-options-checked.png)
 
+See another version of the Option Selector in [Section 2 Exercise 10](#exercise-10-option-selector-mvc-explicit-controller).
+
 ### Section 2 MVC Software Architecture
 
 #### Exercise 10 Option Selector MVC Explicit Controller
@@ -263,6 +265,8 @@ Screenshot(s):
 
 ![option selector screenshot 2](/screenshots/section-02-exercise-09-screenshot-02-option-selector-options-checked.png)
 
+See another version of the Option Selector in [Section 2 Exercise 11](#exercise-11-option-selector-mvc-implicit-controller).
+
 #### Exercise 11 Option Selector MVC Implicit Controller
 
 [section-02-mvc-software-architecture/exercise-11/option_selector_mvc_implicit_controller.rb](/section-02-mvc-software-architecture/exercise-11/option_selector_mvc_implicit_controller.rb)
@@ -278,6 +282,8 @@ Screenshot(s):
 ![option selector screenshot 1](/screenshots/section-02-exercise-09-screenshot-01-option-selector.png)
 
 ![option selector screenshot 2](/screenshots/section-02-exercise-09-screenshot-02-option-selector-options-checked.png)
+
+See another version of the Option Selector in [Section 3 Exercise 12](#exercise-12-option-selector-mvp-and-data-binding).
 
 ### Section 3 MVP & Data-Binding
 
@@ -297,6 +303,8 @@ Screenshot(s):
 
 ![option selector screenshot 2](/screenshots/section-02-exercise-09-screenshot-02-option-selector-options-checked.png)
 
+See another version of the Option Selector in [Section 3 Exercise 13](#exercise-13-option-selector-with-reset).
+
 #### Exercise 13 Option Selector with Reset
 
 [section-03-mvp-data-binding/exercise-13/option_selector_mvp_and_data_binding_with_reset.rb](/section-03-mvp-data-binding/exercise-13/option_selector_mvp_and_data_binding_with_reset.rb)
@@ -314,6 +322,8 @@ Screenshot(s):
 ![option selector screenshot 2](/screenshots/section-02-exercise-09-screenshot-02-option-selector-options-checked.png)
 
 ![option selector with reset](/screenshots/section-03-exercise-13-screenshot-01-option-selector-with-reset.png)
+
+See another version of the Option Selector in [Section 4 Exercise 17](#exercise-17-option-selector-with-data-binding-converters-and-hooks).
 
 #### Exercise 14 Address Form
 
@@ -399,6 +409,8 @@ Screenshot(s):
 
 ![option selector with reset](/screenshots/section-03-exercise-13-screenshot-01-option-selector-with-reset.png)
 
+See another version of the Option Selector in [Section 4 Exercise 18](#exercise-18-option-selector-with-computed-data-binding).
+
 #### Exercise 18 Option Selector with Computed Data-Binding
 
 [section-04-advanced-data-binding/exercise-18/option_selector_with_computed_data_binding.rb](/section-04-advanced-data-binding/exercise-18/option_selector_with_computed_data_binding.rb)
@@ -430,6 +442,10 @@ glimmer section-04-advanced-data-binding/exercise-19/address_form_with_nested_in
 Screenshot(s):
 
 ![address form nested indexed data-binding](/screenshots/section-04-exercise-19-screenshot-01-address-form-with-nested-indexed-data-binding.png)
+
+In addition to Nested Indexed Data-Binding, this exercise demonstrated how to reuse the Address Form as a [Method-Based Custom Control](https://github.com/AndyObtiva/glimmer-dsl-libui#method-based-custom-controls) component.
+
+See another version of this Address Form reused as a [Class-Based Custom Control](https://github.com/AndyObtiva/glimmer-dsl-libui#class-based-custom-components) component in [Section 7 Exercise 24](#exercise-24-address-form-custom-control). 
 
 ### Section 5 Area (Canvas) Graphics
 
@@ -654,6 +670,8 @@ glimmer section-07-custom-components/exercise-24/address_form_custom_control.rb
 Screenshot(s):
 
 ![address form custom control](/screenshots/section-07-exercise-24-screenshot-01-address-form-custom-control.png)
+
+Compared to [Method-Based Custom Controls](https://github.com/AndyObtiva/glimmer-dsl-libui#method-based-custom-controls), [Class-Based Custom Controls](https://github.com/AndyObtiva/glimmer-dsl-libui#class-based-custom-components) provide the added benefit of dividing and conquering the complexity of component code into separate Ruby files, which can even be wrapped as [Ruby gems](https://guides.rubygems.org/what-is-a-gem/) for cross-project reuse if needed.
 
 #### Exercise 25 User Manager
 
