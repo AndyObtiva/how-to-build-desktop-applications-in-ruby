@@ -7,6 +7,10 @@ Mac | Windows | Linux
 
 Please star ("⭐️") this project and [Glimmer DSL for LibUI](https://github.com/AndyObtiva/glimmer-dsl-libui) to save for later reference with regards to Ruby Desktop Development. [Glimmer DSL for LibUI](https://github.com/AndyObtiva/glimmer-dsl-libui) was used in this workshop because it is the simplest and quickest to setup in standard Ruby (aka MRI / CRuby), but the lessons learned are applicable to other [Glimmer GUI DSLs](https://github.com/AndyObtiva/glimmer#glimmer-dsl-comparison-table) (with some syntax variations), including more mature ones like [Glimmer DSL for SWT](https://github.com/AndyObtiva/glimmer-dsl-swt), which might be better for more serious usage after finishing the workshop. If you discover any issues or get stuck while going through the material of this repo, please [report them in GitHub issues](https://github.com/AndyObtiva/how-to-build-desktop-applications-in-ruby/issues) or discuss in the [Glimmer Gitter Chat](https://app.gitter.im/#/room/#AndyObtiva_glimmer:gitter.im).
 
+YouTube Video Link:
+
+[https://www.youtube.com/watch?v=TTSqRdTVtDY](https://www.youtube.com/watch?v=TTSqRdTVtDY)
+
 Presentation Slides Online Short Link:
 
 [https://bit.ly/rubyconf2024desktop](https://bit.ly/rubyconf2024desktop)
